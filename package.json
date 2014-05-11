@@ -1,0 +1,11 @@
+{
+  "name" : "shoelace-ui-filter",
+  "version" : "0.0.1",
+  "description" : "`filter` transparent mixin",
+  "repository" : "https://github.com/shoelace-ui/filter.git",
+  "keywords" : ["shoelace","filter"],
+  "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license" : "MIT",
+  "dependencies": {
+  }
+}
