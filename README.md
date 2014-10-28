@@ -2,10 +2,10 @@
 
 `filter` transparent mixin
 
-## Installation
+## Usage
 
-```sh
-$ npm install git://github.com/shoelace-ui/filter.git
+```stylus
+@require 'shoelace-ui-filter'
 ```
 
 ## License
